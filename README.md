@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhruv2535" alt="dhruv2535" /></a> </p>
 
-- 🔭 I’m currently working on **Codex(chatbot)**
+- 🔭 I’m currently working on **Codex(chatbot) Project in which there is a bot who will solve your coding questions**
 
 - 🌱 I’m currently learning **React.js,node.js,Web development,Data structures & algorithms in java,Python Course,Machine Learning,Data analytics.**
 
