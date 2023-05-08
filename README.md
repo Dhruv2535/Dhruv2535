@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **C,C++,Java,Python,Data structures & algorithms.**
 
-- ⚡ Fun fact **I am still kid from heart😅.**
+- ⚡ Fun fact **I am still a kid from heart😅.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
