@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **Codex(chatbot) Project in which there is a bot who will solve your coding questions.**
 
-- 🌱 I’m currently learning **React.js,node.js,Web development,Data structures & algorithms in java,Python Course,Machine Learning,Data analytics.**
+- 🌱 I’m currently learning **React.js,node.js,Web development,Data structures & algorithms in java,Python,Machine Learning,Data analytics.**
 
-- 💬 Ask me about **C,C++,Java,Python,Data structures & algorithms.**
+- 💬 Ask me about **C,C++,Java,Python,Data structures & algorithms,Web development.**
 
 - ⚡ Fun fact **I am still a kid from heart😅.**
 
