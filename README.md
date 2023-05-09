@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Data analytics,Data structures & algorithms,Python,Machine Learning,Web development.**
 
-- 💬 Ask me about **C,C++,Java,Python,Data structures & algorithms,Web development.**
+- 💬 Ask me about **C,C++,Java,Python,Data structures & algorithms,Data analytics,Web development.**
 
 - ⚡ Fun fact **I am still a kid from heart😅.**
 
