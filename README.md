@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Codex(chatbot) Project in which there is a bot who will solve your coding questions.**
 
-- 🌱 I’m currently learning **Data Science,Data structures & algorithms,Python,Machine Learning,Web development.**
+- 🌱 I’m currently learning **Data Science,Data structures & algorithms,Python,Machine Learning.**
 
 - 💬 Ask me about **C,C++,Java,Python,Data structures & algorithms,Data analytics,Web development.**
 
