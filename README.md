@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Data Science,Data structures & algorithms,Python,Machine Learning.**
 
-- 💬 Ask me about **C,C++,Java,Python,Data structures & algorithms,Data analytics,Web development.**
+- 💬 Ask me about **C,C++,Java,Python,Data structures & algorithms,Data Science,Machine learning.**
 
 - ⚡ Fun fact **I am still a kid from heart😅.**
 
